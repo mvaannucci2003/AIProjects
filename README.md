@@ -1,0 +1,1 @@
+All contents in this repo are projects I am creating for my studies in Oregon State University as a computer science major. This repo will expand and grow in time to develop more AI projects and other neat projects!
